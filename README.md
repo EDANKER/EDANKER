@@ -1,9 +1,7 @@
 <h1 align="center">привет меня завут Эдгар</h1>
 <h3 align="center">я начинающий beck-end,gamedev разработчик, часто работаю с Unity с различными играми, обожаю писать код на C# и изучать его Framework,так же работать c JS при редких случаях для интерфейса различных программ, так же впереди изучения ASP.NET, все навыки изображены на иконках на данный момент</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edanker&label=Profile%20views&color=0e75b6&style=flat" alt="edanker" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edanker" alt="edanker" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
