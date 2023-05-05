@@ -3,7 +3,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://t.me/loveGellyanumberone"></a>
+<a href="https://t.me/loveGellyanumberone">телеграмм</a>
 <p align="left">
 </p>
 
