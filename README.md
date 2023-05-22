@@ -18,4 +18,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edanker&" alt="edanker" /></p>
 
-![диплом](https://github.com/EDANKER/EDANKER/assets/99076691/e819a134-60b2-4ec4-902e-2307783673b4)
+
+![Скриншот 23-05-2023 020848](https://github.com/EDANKER/EDANKER/assets/99076691/5cd9d2b4-6a3a-467b-9aab-42c6725a60bf)
