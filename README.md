@@ -17,3 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edanker&show_icons=true&locale=en" alt="edanker" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edanker&" alt="edanker" /></p>
+![Скриншот 23-05-2023 020452](https://github.com/EDANKER/EDANKER/assets/99076691/cf78274f-27a6-4285-b61e-d0301b748410)
