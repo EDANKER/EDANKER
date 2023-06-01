@@ -15,7 +15,7 @@
 
 
  <img src="https://github.com/EDANKER/EDANKER/assets/99076691/2629e2b2-e2ba-4a55-bb90-b3e911b4eef5" alt="linux" width="100" height="100"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<p>click photo</p>
+<a href="https://github.com/EDANKER/EDANKER/assets/99076691/2629e2b2-e2ba-4a55-bb90-b3e911b4eef5">click photo</a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edanker&show_icons=true&locale=en&layout=compact" alt="edanker" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edanker&show_icons=true&locale=en" alt="edanker" /></p>
