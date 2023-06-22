@@ -24,5 +24,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edanker&" alt="edanker" /></p>
 
 
-<p>обязан всем этим важным человеком в моей жизни </p>
-
