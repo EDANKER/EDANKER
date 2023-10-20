@@ -1,5 +1,5 @@
 <h1 align="center">Привет меня завут Эдгар, самый лучший Разработчик</h1>
-<h3 align="center">я начинающий back-end,gamedev разработчик, часто работаю с Unity с различными играми, обожаю писать код на C# и изучать его Framework,так же работать c JS при редких случаях для интерфейса различных программ, так же изучучаю ASP.NET Core MVC и ASP NET CORE WEB API</h3>
+<h3 align="center">я начинающий back-end,gamedev разработчик, часто работаю с Unity с различными играми, обожаю писать код на C# и изучать его Framework,так же работать c JS при редких случаях для интерфейса различных программ, так же работаю ASP.NET Core MVC и ASP NET CORE WEB API</h3>
 
 
 <h3 align="left">Connect with me:</h3>
