@@ -4,8 +4,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://t.me/loveGellyanumberone">Telegram</a>
-<a href="https://edankr-yzo.itch.io">Telegram</a>
 <p align="left">
+ <a href="https://edankr-yzo.itch.io">itch</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
