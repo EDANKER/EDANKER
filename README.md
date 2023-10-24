@@ -6,7 +6,8 @@
 <a href="https://t.me/loveGellyanumberone">Telegram</a>
 <p align="left">
  <a href="https://edankr-yzo.itch.io">itch</a>
- <a href="https://t.me/edankryzo">Telegram chanel></a>
+ <p align="left">
+ <a href="https://t.me/edankryzo">Telegram chanel</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
