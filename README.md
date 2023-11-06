@@ -10,8 +10,6 @@
  <a href="https://t.me/edankryzo">Telegram chanel</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
- <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp">
 
 
 
