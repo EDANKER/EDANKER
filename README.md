@@ -1,7 +1,5 @@
-<h1 align="center">Привет меня зовут Эдгар</h1>
-<h3 align="center">Я занимаюсь разработкой на ASP NET CORE MVC и ASP NET CORE WEB API для создания веб-api или приложений. Иногда я использую JavaScript для создания интерфейсов или прототипов,
-Подробно работаю с Сетевым программированием, с протоколами TCP, UDP, FTP,
-Знания структур данных на среднем уровне.</h3>
+<h1 align="center">Edankryz - Эдгар</h1>
+<h3 align="center">Все в резюме</h3>
 
 
 <h3 align="left">Connect with me:</h3>
