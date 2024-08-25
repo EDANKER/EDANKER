@@ -1,4 +1,4 @@
-<h1 align="center">Edankryz - Эдгар</h1>
+<h1 align="center">Edankryzо - Эдгар</h1>
 <h3 align="center">Все в резюме</h3>
 
 
